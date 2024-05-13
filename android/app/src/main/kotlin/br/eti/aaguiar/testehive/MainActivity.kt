@@ -1,0 +1,5 @@
+package br.eti.aaguiar.testehive
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
